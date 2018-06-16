@@ -1,6 +1,6 @@
 ## Convert all docs from Evernote folder into markdown
 
-## Prereqs
+## Prereqs
 
 - Composer
 - PHP 5.6+
