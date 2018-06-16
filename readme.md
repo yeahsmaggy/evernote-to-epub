@@ -1,5 +1,14 @@
 ## Convert all docs from Evernote folder into markdown
 
+## Prereqs
+
+- Composer
+- PHP 5.6+
+
+## Install
+
+- git clone this repo
+- run composer install
 - In evernote, select all the notes you want and go to File -> Export notes
 - Choose to export to this folder in a new folder named 'readers'
 - run ```PHP -S localhost:8000``` to run the server or run ```php index.php```
